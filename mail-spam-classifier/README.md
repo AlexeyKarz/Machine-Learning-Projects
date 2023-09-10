@@ -1,4 +1,4 @@
-#Spam Detection Project
+# Spam Detection Project
 
 **IMPORTANT NOTE:** *The goal of this project is to expand and demonstrate skills in machine learning. In this notebook, I will not only explore the possibilities how to create, train and fine-tune NLP models, but also how to use AI tools - primarily LLM - ChatGPT 3.5. Some of the code below was written by AI and then checked and modified by me.*
 
